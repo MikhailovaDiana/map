@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Exit early on errors
+# Exit early on errorspip install -r rew
 set -eu
 
 # Python buffers stdout. Without this, you won't see what you "print" in the Activity Logs
